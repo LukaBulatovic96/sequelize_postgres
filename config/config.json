@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "luka",
+    "password": "condor123",
+    "database": "seq_pos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "luka",
+    "password": "condor123",
+    "database": "seq_pos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "luka",
+    "password": "condor123",
+    "database": "seq_pos",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
